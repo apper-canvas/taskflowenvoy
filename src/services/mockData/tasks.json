@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly financial reports",
+    "completed": false,
+    "categoryId": "work",
+    "priority": "high",
+    "dueDate": "2024-01-15",
+    "createdAt": "2024-01-10T10:00:00Z",
+    "archived": false
+  },
+  {
+    "id": "2",
+    "title": "Schedule team standup meetings",
+    "completed": false,
+    "categoryId": "work",
+    "priority": "medium",
+    "dueDate": "2024-01-12",
+    "createdAt": "2024-01-10T11:30:00Z",
+    "archived": false
+  },
+  {
+    "id": "3",
+    "title": "Grocery shopping for the week",
+    "completed": false,
+    "categoryId": "personal",
+    "priority": "medium",
+    "dueDate": "2024-01-13",
+    "createdAt": "2024-01-10T14:15:00Z",
+    "archived": false
+  },
+  {
+    "id": "4",
+    "title": "Complete React component documentation",
+    "completed": false,
+    "categoryId": "work",
+    "priority": "high",
+    "dueDate": "2024-01-14",
+    "createdAt": "2024-01-09T16:45:00Z",
+    "archived": false
+  },
+  {
+    "id": "5",
+    "title": "Book dentist appointment",
+    "completed": false,
+    "categoryId": "health",
+    "priority": "low",
+    "dueDate": "2024-01-20",
+    "createdAt": "2024-01-08T09:20:00Z",
+    "archived": false
+  },
+  {
+    "id": "6",
+    "title": "Plan weekend hiking trip",
+    "completed": true,
+    "categoryId": "personal",
+    "priority": "low",
+    "dueDate": "2024-01-11",
+    "createdAt": "2024-01-07T12:00:00Z",
+    "archived": true
+  },
+  {
+    "id": "7",
+    "title": "Update project timeline",
+    "completed": true,
+    "categoryId": "work",
+    "priority": "medium",
+    "dueDate": "2024-01-10",
+    "createdAt": "2024-01-05T15:30:00Z",
+    "archived": true
+  }
+]
