@@ -14,11 +14,13 @@ function App() {
               key={route.id}
               path={route.path}
               element={<route.component />}
-            />
+/>
           ))}
-          <Route index element={<routeArray[0].component />} />
+          {(() => {
+            const IndexComponent = routeArray[0].component;
+            return <Route index element={<IndexComponent />} />;
+          })()}
         </Route>
-      </Routes>
       <ToastContainer
         position="top-right"
         autoClose={3000}
